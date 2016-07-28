@@ -1,0 +1,3809 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Polo\n"
+"POT-Creation-Date: 2016-06-11 13:30+0300\n"
+"PO-Revision-Date: 2016-06-11 13:29+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:64 page-templates/404-page.php:66
+msgid "Please try searching again"
+msgstr ""
+
+#: comments.php:19
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:31
+msgid "Your name"
+msgstr ""
+
+#: comments.php:31
+msgid "Enter name"
+msgstr ""
+
+#: comments.php:36
+msgid "Your email"
+msgstr ""
+
+#: comments.php:36
+msgid "Enter email"
+msgstr ""
+
+#: comments.php:41
+msgid "Your URL"
+msgstr ""
+
+#: comments.php:41
+msgid "Enter URL"
+msgstr ""
+
+#: comments.php:47
+msgid "Your comment"
+msgstr ""
+
+#: comments.php:48
+msgid "Enter comment"
+msgstr ""
+
+#: comments.php:56
+msgid "Comments"
+msgstr ""
+
+#: comments.php:66
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:67
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:93
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:108
+msgid " Post comment"
+msgstr ""
+
+#: cs-framework-override/config/customize.config.php:20
+#: cs-framework-override/config/framework.config.php:22
+msgid "Facebook"
+msgstr ""
+
+#: cs-framework-override/config/customize.config.php:21
+#: cs-framework-override/config/framework.config.php:23
+msgid "Google"
+msgstr ""
+
+#: cs-framework-override/config/customize.config.php:22
+#: cs-framework-override/config/framework.config.php:24
+msgid "Twitter"
+msgstr ""
+
+#: cs-framework-override/config/customize.config.php:23
+#: cs-framework-override/config/framework.config.php:25
+msgid "Instagram"
+msgstr ""
+
+#: cs-framework-override/config/customize.config.php:24
+#: cs-framework-override/config/framework.config.php:26
+msgid "Xing"
+msgstr ""
+
+#: cs-framework-override/config/customize.config.php:25
+#: cs-framework-override/config/framework.config.php:27
+msgid "LastFM"
+msgstr ""
+
+#: cs-framework-override/config/customize.config.php:26
+#: cs-framework-override/config/framework.config.php:28
+msgid "Dribble"
+msgstr ""
+
+#: cs-framework-override/config/customize.config.php:27
+#: cs-framework-override/config/framework.config.php:29
+msgid "Vkontakte"
+msgstr ""
+
+#: cs-framework-override/config/customize.config.php:28
+#: cs-framework-override/config/framework.config.php:30
+msgid "Youtube"
+msgstr ""
+
+#: cs-framework-override/config/customize.config.php:29
+#: cs-framework-override/config/framework.config.php:31
+msgid "Microsoft"
+msgstr ""
+
+#: cs-framework-override/config/customize.config.php:30
+#: cs-framework-override/config/framework.config.php:32
+msgid "Deviantart"
+msgstr ""
+
+#: cs-framework-override/config/customize.config.php:31
+#: cs-framework-override/config/framework.config.php:33
+msgid "LinkedIN"
+msgstr ""
+
+#: cs-framework-override/config/customize.config.php:32
+#: cs-framework-override/config/framework.config.php:34
+msgid "Pinterest"
+msgstr ""
+
+#: cs-framework-override/config/customize.config.php:33
+#: cs-framework-override/config/framework.config.php:35
+msgid "Wordpress"
+msgstr ""
+
+#: cs-framework-override/config/customize.config.php:34
+#: cs-framework-override/config/framework.config.php:36
+msgid "Behance"
+msgstr ""
+
+#: cs-framework-override/config/customize.config.php:35
+#: cs-framework-override/config/framework.config.php:38
+msgid "Flickr"
+msgstr ""
+
+#: cs-framework-override/config/customize.config.php:36
+#: cs-framework-override/config/framework.config.php:39
+msgid "RSS"
+msgstr ""
+
+#: cs-framework-override/config/customize.config.php:44
+#: cs-framework-override/config/framework.config.php:87
+#: cs-framework-override/config/metabox.config.php:1046
+#: cs-framework-override/config/metabox.config.php:1330
+msgid "Main options"
+msgstr ""
+
+#: cs-framework-override/config/customize.config.php:52
+msgid "Purchase code"
+msgstr ""
+
+#: cs-framework-override/config/customize.config.php:62
+msgid "Access token"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:10
+msgid "Theme options"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:37
+msgid "Vimeo"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:43
+#: cs-framework-override/config/framework.config.php:1601
+#: cs-framework-override/config/metabox.config.php:14
+#: cs-framework-override/config/metabox.config.php:818
+#: cs-framework-override/config/metabox.config.php:844
+msgid "None"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:44
+#: cs-framework-override/config/metabox.config.php:15
+msgid "bounceIn"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:45
+#: cs-framework-override/config/metabox.config.php:16
+msgid "bounceInDown"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:46
+#: cs-framework-override/config/metabox.config.php:17
+msgid "bounceInLeft"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:47
+#: cs-framework-override/config/metabox.config.php:18
+msgid "bounceInRight"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:48
+#: cs-framework-override/config/metabox.config.php:19
+msgid "bounceInUp"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:49
+#: cs-framework-override/config/metabox.config.php:20
+msgid "fadeIn"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:50
+#: cs-framework-override/config/metabox.config.php:21
+msgid "fadeInDown"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:51
+#: cs-framework-override/config/metabox.config.php:22
+msgid "fadeInDownBig"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:52
+#: cs-framework-override/config/metabox.config.php:23
+msgid "fadeInLeft"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:53
+#: cs-framework-override/config/metabox.config.php:24
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:54
+#: cs-framework-override/config/metabox.config.php:25
+msgid "fadeInRight"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:55
+#: cs-framework-override/config/metabox.config.php:26
+msgid "fadeInRightBig"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:56
+#: cs-framework-override/config/metabox.config.php:27
+msgid "fadeInUp"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:57
+#: cs-framework-override/config/metabox.config.php:28
+msgid "fadeInUpBig"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:58
+#: cs-framework-override/config/metabox.config.php:29
+msgid "flipInX"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:59
+#: cs-framework-override/config/metabox.config.php:30
+msgid "flipInY"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:60
+#: cs-framework-override/config/metabox.config.php:31
+msgid "lightSpeedIn"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:61
+#: cs-framework-override/config/metabox.config.php:32
+msgid "rotateIn"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:62
+#: cs-framework-override/config/metabox.config.php:33
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:63
+#: cs-framework-override/config/metabox.config.php:34
+msgid "rotateInDownRight"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:64
+#: cs-framework-override/config/metabox.config.php:35
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:65
+#: cs-framework-override/config/metabox.config.php:36
+msgid "rotateInUpRight"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:66
+#: cs-framework-override/config/metabox.config.php:37
+msgid "rollIn"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:67
+#: cs-framework-override/config/metabox.config.php:38
+msgid "zoomIn"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:68
+#: cs-framework-override/config/metabox.config.php:39
+msgid "zoomInDown"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:69
+#: cs-framework-override/config/metabox.config.php:40
+msgid "zoomInLeft"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:70
+#: cs-framework-override/config/metabox.config.php:41
+msgid "zoomInRight"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:71
+#: cs-framework-override/config/metabox.config.php:42
+msgid "zoomInUp"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:72
+#: cs-framework-override/config/metabox.config.php:43
+msgid "slideInDown"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:73
+#: cs-framework-override/config/metabox.config.php:44
+msgid "slideInLeft"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:74
+#: cs-framework-override/config/metabox.config.php:45
+msgid "slideInRight"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:75
+#: cs-framework-override/config/metabox.config.php:46
+msgid "slideInUp"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:94
+msgid "Item purchase code"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:95
+msgid "<p>Insert item purchase code to receive automatic theme updates.</p>"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:101
+#: cs-framework-override/config/metabox.config.php:68
+msgid "Theme color scheme"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:104
+#: cs-framework-override/config/metabox.config.php:72
+msgid "Blue"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:105
+#: cs-framework-override/config/metabox.config.php:73
+msgid "Blue-dark"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:106
+#: cs-framework-override/config/metabox.config.php:74
+msgid "Brown"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:107
+#: cs-framework-override/config/metabox.config.php:75
+msgid "Brown-light"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:108
+#: cs-framework-override/config/framework.config.php:251
+#: cs-framework-override/config/metabox.config.php:76
+#: cs-framework-override/config/metabox.config.php:144
+msgid "Custom"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:109
+#: cs-framework-override/config/metabox.config.php:77
+msgid "Green"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:110
+#: cs-framework-override/config/metabox.config.php:78
+msgid "Green light"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:111
+#: cs-framework-override/config/metabox.config.php:79
+msgid "Orange"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:112
+#: cs-framework-override/config/metabox.config.php:80
+msgid "Pink"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:113
+#: cs-framework-override/config/metabox.config.php:81
+msgid "Red"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:114
+#: cs-framework-override/config/metabox.config.php:82
+msgid "Red-dark"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:115
+#: cs-framework-override/config/metabox.config.php:83
+msgid "Yellow"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:122
+#: cs-framework-override/config/metabox.config.php:90
+msgid "Custom color"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:128
+msgid "Social networks"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:129
+#: cs-framework-override/config/metabox.config.php:2698
+msgid "Add New"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:130
+msgid "Social network"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:136
+msgid "Select available social network"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:141
+msgid "Link of your page"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:148
+#: cs-framework-override/config/metabox.config.php:96
+msgid "Enable boxed body"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:154
+#: cs-framework-override/config/metabox.config.php:107
+msgid "Boxed body background options"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:160
+#: cs-framework-override/config/metabox.config.php:113
+msgid "Body background options"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:166
+msgid "Title for home page"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:171
+msgid "Preloader settings"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:177
+msgid "Disable preloader"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:182
+#: library/inc/menu/mega_menu.php:57
+msgid "Icon"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:185
+msgid "Audio"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:186
+msgid "Ball triangle"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:187
+msgid "Bars"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:188
+msgid "Circles"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:189
+msgid "Grid"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:190
+msgid "Hearts"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:191
+msgid "Oval"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:192
+msgid "Puff"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:193
+msgid "Ring"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:194
+msgid "Rings"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:195
+msgid "Spin"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:196
+msgid "Spinning circles"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:197
+msgid "Three dots"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:204
+msgid "Animation"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:207
+msgid "Fade"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:208
+msgid "Fade Up"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:209
+msgid "Fade Down"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:210
+msgid "Fade Left"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:211
+msgid "Fade Right"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:212
+msgid "Rotate"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:213
+msgid "Flip X"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:214
+msgid "Flip Y"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:215
+msgid "Zoom"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:216
+msgid "Overlay"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:229
+#: cs-framework-override/config/framework.config.php:280
+#: cs-framework-override/config/metabox.config.php:178
+#: cs-framework-override/config/metabox.config.php:1273
+#: cs-framework-override/config/metabox.config.php:1703
+msgid "Header options"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:235
+#: cs-framework-override/config/metabox.config.php:121
+msgid "Top bar options"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:241
+#: cs-framework-override/config/metabox.config.php:128
+msgid "Enable top bar"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:246
+#: cs-framework-override/config/metabox.config.php:138
+msgid "Top bar color"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:249
+#: cs-framework-override/config/metabox.config.php:142
+msgid "White"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:250
+#: cs-framework-override/config/framework.config.php:324
+#: cs-framework-override/config/framework.config.php:337
+#: cs-framework-override/config/framework.config.php:353
+#: cs-framework-override/config/framework.config.php:483
+#: cs-framework-override/config/framework.config.php:522
+#: cs-framework-override/config/metabox.config.php:143
+#: cs-framework-override/config/metabox.config.php:227
+#: cs-framework-override/config/metabox.config.php:240
+#: cs-framework-override/config/metabox.config.php:257
+#: cs-framework-override/config/metabox.config.php:431
+#: cs-framework-override/config/metabox.config.php:468
+#: cs-framework-override/config/metabox.config.php:1321
+#: cs-framework-override/config/metabox.config.php:1694
+#: cs-framework-override/config/metabox.config.php:1732
+#: cs-framework-override/config/metabox.config.php:1745
+#: cs-framework-override/config/metabox.config.php:1762
+msgid "Dark"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:259
+#: cs-framework-override/config/metabox.config.php:152
+msgid "Enable transparency on top bar"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:266
+#: cs-framework-override/config/metabox.config.php:164
+msgid "Custom background color for top bar"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:272
+#: cs-framework-override/config/metabox.config.php:170
+msgid "Custom text color for top bar"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:286
+#: cs-framework-override/config/metabox.config.php:185
+msgid "Header Style"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:300
+#: cs-framework-override/config/metabox.config.php:200
+#: cs-framework-override/config/metabox.config.php:1710
+msgid "Header layout"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:320
+#: cs-framework-override/config/framework.config.php:349
+#: cs-framework-override/config/metabox.config.php:221
+#: cs-framework-override/config/metabox.config.php:252
+#: cs-framework-override/config/metabox.config.php:1726
+#: cs-framework-override/config/metabox.config.php:1757
+msgid "Header style"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:322
+#: cs-framework-override/config/framework.config.php:336
+#: cs-framework-override/config/framework.config.php:352
+#: cs-framework-override/config/framework.config.php:523
+#: cs-framework-override/config/metabox.config.php:225
+#: cs-framework-override/config/metabox.config.php:239
+#: cs-framework-override/config/metabox.config.php:256
+#: cs-framework-override/config/metabox.config.php:469
+#: cs-framework-override/config/metabox.config.php:1693
+#: cs-framework-override/config/metabox.config.php:1730
+#: cs-framework-override/config/metabox.config.php:1744
+#: cs-framework-override/config/metabox.config.php:1761
+msgid "Light"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:323
+#: cs-framework-override/config/metabox.config.php:226
+#: cs-framework-override/config/metabox.config.php:1731
+msgid "Light transparent"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:325
+#: cs-framework-override/config/framework.config.php:354
+#: cs-framework-override/config/metabox.config.php:228
+#: cs-framework-override/config/metabox.config.php:258
+#: cs-framework-override/config/metabox.config.php:1733
+#: cs-framework-override/config/metabox.config.php:1763
+msgid "Dark transparent"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:326
+#: cs-framework-override/config/framework.config.php:1602
+#: cs-framework-override/config/metabox.config.php:224
+#: cs-framework-override/config/metabox.config.php:1729
+msgid "Transparent"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:334
+#: cs-framework-override/config/metabox.config.php:236
+#: cs-framework-override/config/metabox.config.php:1741
+msgid "Menu color"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:351
+#: cs-framework-override/config/metabox.config.php:255
+#: cs-framework-override/config/metabox.config.php:1760
+msgid "Simple"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:362
+#: cs-framework-override/config/metabox.config.php:266
+#: cs-framework-override/config/metabox.config.php:1771
+msgid "Logo position"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:364
+#: cs-framework-override/config/framework.config.php:539
+#: cs-framework-override/config/framework.config.php:1564
+#: cs-framework-override/config/metabox.config.php:269
+#: cs-framework-override/config/metabox.config.php:480
+#: cs-framework-override/config/metabox.config.php:709
+#: cs-framework-override/config/metabox.config.php:1598
+#: cs-framework-override/config/metabox.config.php:1774
+#: cs-framework-override/config/metabox.config.php:1994
+#: library/inc/extensions/sidebars.php:24
+msgid "Left"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:365
+#: cs-framework-override/config/framework.config.php:540
+#: cs-framework-override/config/framework.config.php:1565
+#: cs-framework-override/config/metabox.config.php:270
+#: cs-framework-override/config/metabox.config.php:481
+#: cs-framework-override/config/metabox.config.php:710
+#: cs-framework-override/config/metabox.config.php:1599
+#: cs-framework-override/config/metabox.config.php:1775
+#: cs-framework-override/config/metabox.config.php:1995
+#: library/inc/extensions/sidebars.php:37
+msgid "Right"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:372
+#: cs-framework-override/config/metabox.config.php:282
+#: cs-framework-override/config/metabox.config.php:1787
+msgid "Full width header"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:379
+#: cs-framework-override/config/metabox.config.php:298
+#: cs-framework-override/config/metabox.config.php:1803
+msgid "Mini header"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:386
+#: cs-framework-override/config/metabox.config.php:319
+#: cs-framework-override/config/metabox.config.php:1824
+msgid "Sticky header"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:397
+#: cs-framework-override/config/metabox.config.php:332
+#: cs-framework-override/config/metabox.config.php:1280
+#: cs-framework-override/config/metabox.config.php:1837
+msgid "Logotype pictogram"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:402
+#: cs-framework-override/config/metabox.config.php:338
+#: cs-framework-override/config/metabox.config.php:1285
+#: cs-framework-override/config/metabox.config.php:1843
+msgid "Retina Ready Logotype pictogram"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:403
+#: cs-framework-override/config/framework.config.php:1525
+#: cs-framework-override/config/metabox.config.php:339
+#: cs-framework-override/config/metabox.config.php:647
+#: cs-framework-override/config/metabox.config.php:1286
+#: cs-framework-override/config/metabox.config.php:1536
+#: cs-framework-override/config/metabox.config.php:1844
+#: cs-framework-override/config/metabox.config.php:1932
+msgid "DOUBLED size of image for best display on Retina Screens"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:409
+#: cs-framework-override/config/metabox.config.php:351
+#: cs-framework-override/config/metabox.config.php:1856
+msgid "Search"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:410
+#: cs-framework-override/config/metabox.config.php:352
+#: cs-framework-override/config/metabox.config.php:1857
+msgid "Hide search panel in header"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:421
+#: cs-framework-override/config/metabox.config.php:364
+#: cs-framework-override/config/metabox.config.php:1868
+msgid "Cart"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:422
+#: cs-framework-override/config/metabox.config.php:365
+#: cs-framework-override/config/metabox.config.php:1869
+msgid "Hide cart in header"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:433
+#: cs-framework-override/config/metabox.config.php:377
+msgid "Menu button"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:434
+#: cs-framework-override/config/metabox.config.php:378
+msgid "Show menu button"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:444
+#: cs-framework-override/config/metabox.config.php:384
+#: cs-framework-override/config/metabox.config.php:1664
+msgid "Menu style"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:446
+#: cs-framework-override/config/metabox.config.php:387
+msgid "Panel on left"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:447
+#: cs-framework-override/config/metabox.config.php:388
+msgid "Hidden menu"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:455
+#: cs-framework-override/config/metabox.config.php:403
+#: cs-framework-override/config/metabox.config.php:1297
+msgid "Logotype text"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:463
+#: cs-framework-override/config/metabox.config.php:409
+#: cs-framework-override/config/metabox.config.php:1302
+msgid "Hide menu"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:473
+#: cs-framework-override/config/metabox.config.php:421
+#: cs-framework-override/config/metabox.config.php:1313
+msgid "Description text"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:481
+#: cs-framework-override/config/metabox.config.php:428
+#: cs-framework-override/config/metabox.config.php:1319
+msgid "Soc icons style"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:484
+#: cs-framework-override/config/framework.config.php:521
+#: cs-framework-override/config/framework.config.php:1603
+#: cs-framework-override/config/metabox.config.php:432
+#: cs-framework-override/config/metabox.config.php:467
+#: cs-framework-override/config/metabox.config.php:1322
+msgid "Colored"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:501
+#: cs-framework-override/config/metabox.config.php:442
+msgid "Stunning header options"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:508
+msgid "Show stunning header"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:513
+#: cs-framework-override/config/metabox.config.php:458
+msgid "Style"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:516
+#: cs-framework-override/config/metabox.config.php:462
+msgid "Animated"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:517
+#: cs-framework-override/config/framework.config.php:1445
+#: cs-framework-override/config/metabox.config.php:463
+#: cs-framework-override/config/metabox.config.php:2023
+msgid "Parallax"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:518
+#: cs-framework-override/config/metabox.config.php:464
+msgid "Video"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:519
+#: cs-framework-override/config/metabox.config.php:465
+msgid "Extended"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:520
+#: cs-framework-override/config/metabox.config.php:466
+msgid "Pattern"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:531
+#: cs-framework-override/config/metabox.config.php:490
+msgid "Stunning header subtitle"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:536
+#: cs-framework-override/config/metabox.config.php:476
+msgid "Title align"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:541
+#: cs-framework-override/config/metabox.config.php:482
+msgid "Center"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:548
+#: cs-framework-override/config/metabox.config.php:495
+msgid "Stunning header animation"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:557
+#: cs-framework-override/config/metabox.config.php:508
+#: cs-framework-override/config/metabox.config.php:2040
+msgid "Background image"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:567
+#: cs-framework-override/config/metabox.config.php:518
+msgid "Custom text color "
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:573
+#: cs-framework-override/config/metabox.config.php:524
+msgid "Custom height"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:579
+#: cs-framework-override/config/metabox.config.php:530
+msgid "Embed video"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:585
+#: cs-framework-override/config/framework.config.php:597
+#: cs-framework-override/config/framework.config.php:609
+#: cs-framework-override/config/metabox.config.php:540
+#: cs-framework-override/config/metabox.config.php:556
+#: cs-framework-override/config/metabox.config.php:572
+msgid "video"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:589
+#: cs-framework-override/config/framework.config.php:601
+#: cs-framework-override/config/framework.config.php:613
+#: cs-framework-override/config/metabox.config.php:544
+#: cs-framework-override/config/metabox.config.php:560
+#: cs-framework-override/config/metabox.config.php:576
+msgid "Select a video"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:590
+#: cs-framework-override/config/framework.config.php:602
+#: cs-framework-override/config/framework.config.php:614
+#: cs-framework-override/config/metabox.config.php:545
+#: cs-framework-override/config/metabox.config.php:561
+#: cs-framework-override/config/metabox.config.php:577
+msgid "Use this video"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:621
+msgid "Breadcrumbs style"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:640
+#: cs-framework-override/config/metabox.config.php:2225
+msgid "Post options"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:646
+msgid "Blog post options"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:652
+#: cs-framework-override/config/metabox.config.php:894
+msgid "Blog style"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:669
+#: cs-framework-override/config/framework.config.php:694
+#: cs-framework-override/config/framework.config.php:844
+#: cs-framework-override/config/framework.config.php:1421
+#: cs-framework-override/config/metabox.config.php:912
+#: cs-framework-override/config/metabox.config.php:939
+#: cs-framework-override/config/metabox.config.php:1064
+#: cs-framework-override/config/metabox.config.php:1337
+#: cs-framework-override/config/metabox.config.php:2078
+msgid "Columns number"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:671
+#: cs-framework-override/config/framework.config.php:846
+#: cs-framework-override/config/metabox.config.php:915
+#: cs-framework-override/config/metabox.config.php:1067
+msgid "column"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:672
+#: cs-framework-override/config/framework.config.php:673
+#: cs-framework-override/config/framework.config.php:674
+#: cs-framework-override/config/framework.config.php:675
+#: cs-framework-override/config/framework.config.php:696
+#: cs-framework-override/config/framework.config.php:697
+#: cs-framework-override/config/framework.config.php:698
+#: cs-framework-override/config/framework.config.php:847
+#: cs-framework-override/config/framework.config.php:848
+#: cs-framework-override/config/framework.config.php:849
+#: cs-framework-override/config/framework.config.php:850
+#: cs-framework-override/config/framework.config.php:851
+#: cs-framework-override/config/framework.config.php:1423
+#: cs-framework-override/config/framework.config.php:1424
+#: cs-framework-override/config/framework.config.php:1425
+#: cs-framework-override/config/framework.config.php:1426
+#: cs-framework-override/config/metabox.config.php:916
+#: cs-framework-override/config/metabox.config.php:917
+#: cs-framework-override/config/metabox.config.php:918
+#: cs-framework-override/config/metabox.config.php:919
+#: cs-framework-override/config/metabox.config.php:942
+#: cs-framework-override/config/metabox.config.php:943
+#: cs-framework-override/config/metabox.config.php:944
+#: cs-framework-override/config/metabox.config.php:1068
+#: cs-framework-override/config/metabox.config.php:1069
+#: cs-framework-override/config/metabox.config.php:1070
+#: cs-framework-override/config/metabox.config.php:1071
+#: cs-framework-override/config/metabox.config.php:1072
+#: cs-framework-override/config/metabox.config.php:1339
+#: cs-framework-override/config/metabox.config.php:1340
+#: cs-framework-override/config/metabox.config.php:1341
+#: cs-framework-override/config/metabox.config.php:1342
+#: cs-framework-override/config/metabox.config.php:1343
+#: cs-framework-override/config/metabox.config.php:2081
+#: cs-framework-override/config/metabox.config.php:2082
+#: cs-framework-override/config/metabox.config.php:2083
+#: cs-framework-override/config/metabox.config.php:2084
+msgid "columns"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:683
+#: cs-framework-override/config/metabox.config.php:927
+msgid "Thumbnail blog style"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:685
+#: cs-framework-override/config/framework.config.php:836
+#: cs-framework-override/config/framework.config.php:1113
+#: cs-framework-override/config/framework.config.php:1166
+#: cs-framework-override/config/framework.config.php:1219
+#: cs-framework-override/config/framework.config.php:1272
+#: cs-framework-override/config/framework.config.php:1325
+#: cs-framework-override/config/metabox.config.php:767
+#: cs-framework-override/config/metabox.config.php:930
+#: cs-framework-override/config/metabox.config.php:1056
+#: cs-framework-override/config/metabox.config.php:2295
+#: cs-framework-override/config/metabox.config.php:2560
+msgid "Classic"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:686
+#: cs-framework-override/config/framework.config.php:1114
+#: cs-framework-override/config/framework.config.php:1167
+#: cs-framework-override/config/framework.config.php:1220
+#: cs-framework-override/config/framework.config.php:1273
+#: cs-framework-override/config/framework.config.php:1326
+#: cs-framework-override/config/metabox.config.php:768
+#: cs-framework-override/config/metabox.config.php:931
+#: cs-framework-override/config/metabox.config.php:2296
+#: cs-framework-override/config/metabox.config.php:2561
+msgid "Modern"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:706
+#: cs-framework-override/config/metabox.config.php:957
+msgid "Masonry blog full width"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:712
+#: cs-framework-override/config/metabox.config.php:968
+#: cs-framework-override/config/metabox.config.php:1254
+msgid "Excerpt length"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:717
+#: cs-framework-override/config/framework.config.php:1002
+#: cs-framework-override/config/metabox.config.php:973
+#: cs-framework-override/config/metabox.config.php:1124
+#: cs-framework-override/config/metabox.config.php:1383
+msgid "Pagination type"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:719
+#: cs-framework-override/config/framework.config.php:1004
+#: cs-framework-override/config/metabox.config.php:976
+#: cs-framework-override/config/metabox.config.php:1127
+#: cs-framework-override/config/metabox.config.php:1386
+msgid "Pagination"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:720
+#: cs-framework-override/config/framework.config.php:1005
+#: cs-framework-override/config/metabox.config.php:977
+#: cs-framework-override/config/metabox.config.php:1128
+#: cs-framework-override/config/metabox.config.php:1387
+msgid "Pager"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:721
+#: cs-framework-override/config/framework.config.php:1006
+#: cs-framework-override/config/metabox.config.php:978
+#: cs-framework-override/config/metabox.config.php:1129
+#: cs-framework-override/config/metabox.config.php:1388
+msgid "Load more button"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:729
+#: cs-framework-override/config/framework.config.php:1013
+#: cs-framework-override/config/metabox.config.php:986
+#: cs-framework-override/config/metabox.config.php:1136
+#: cs-framework-override/config/metabox.config.php:1395
+msgid "Pagination style"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:743
+#: cs-framework-override/config/framework.config.php:1027
+#: cs-framework-override/config/metabox.config.php:1001
+#: cs-framework-override/config/metabox.config.php:1151
+#: cs-framework-override/config/metabox.config.php:1410
+msgid "Pager style"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:759
+#: cs-framework-override/config/framework.config.php:863
+#: cs-framework-override/config/framework.config.php:1043
+#: cs-framework-override/config/metabox.config.php:1023
+#: cs-framework-override/config/metabox.config.php:1104
+#: cs-framework-override/config/metabox.config.php:1173
+#: cs-framework-override/config/metabox.config.php:1432
+msgid "Enable full width"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:770
+msgid "Single post options"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:776
+#: cs-framework-override/config/metabox.config.php:2239
+msgid "Single post style"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:787
+#: cs-framework-override/config/metabox.config.php:2411
+msgid "Gallery feature type"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:789
+msgid "Default gallery"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:790
+#: cs-framework-override/config/metabox.config.php:2415
+#: cs-framework-override/config/metabox.config.php:2617
+msgid "Slider"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:797
+msgid "Inner post pagination type"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:799
+msgid "Numbered"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:800
+msgid "Prev/next"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:815
+msgid "Portfolio options"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:821
+msgid "Blog portfolio options"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:827
+msgid "Custom portfolio slug"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:834
+#: cs-framework-override/config/metabox.config.php:1053
+msgid "Portfolio blog style"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:837
+#: cs-framework-override/config/metabox.config.php:1057
+msgid "Masonry"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:858
+#: cs-framework-override/config/metabox.config.php:1079
+#: cs-framework-override/config/metabox.config.php:1350
+msgid "Items per page"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:869
+#: cs-framework-override/config/metabox.config.php:1183
+#: cs-framework-override/config/metabox.config.php:1442
+msgid "Hover style"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:893
+#: cs-framework-override/config/metabox.config.php:1208
+msgid "Show title"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:900
+#: cs-framework-override/config/metabox.config.php:1220
+#: cs-framework-override/config/metabox.config.php:1467
+msgid "Disable spaces between items"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:906
+#: cs-framework-override/config/metabox.config.php:1231
+msgid "Enable grey background"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:912
+#: cs-framework-override/config/metabox.config.php:1242
+msgid "Show excerpt"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:919
+msgid "Excerpt lenght"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:926
+msgid "Single portfolio options"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:933
+#: cs-framework-override/config/metabox.config.php:2503
+msgid "Portfolio item layout"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:947
+#: cs-framework-override/config/metabox.config.php:2716
+msgid "Hide share buttons"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:953
+msgid "Soc networks to share"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:970
+#: cs-framework-override/config/metabox.config.php:2727
+msgid "Show related portfolios"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:976
+#: cs-framework-override/config/metabox.config.php:2738
+msgid "Related portfolio title"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:983
+#: cs-framework-override/config/framework.config.php:984
+#: cs-framework-override/config/framework.config.php:985
+#: cs-framework-override/config/framework.config.php:986
+#: cs-framework-override/config/metabox.config.php:2746
+#: cs-framework-override/config/metabox.config.php:2747
+#: cs-framework-override/config/metabox.config.php:2748
+#: cs-framework-override/config/metabox.config.php:2749
+msgid "items"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:988
+#: cs-framework-override/config/metabox.config.php:2751
+msgid "Related posts number"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:996
+msgid "Portfolio pagination"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1061
+msgid "Sidebar options"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1067
+#: cs-framework-override/config/framework.config.php:1073
+msgid "Single post layout"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1079
+#: cs-framework-override/config/framework.config.php:1135
+#: cs-framework-override/config/framework.config.php:1189
+#: cs-framework-override/config/framework.config.php:1242
+#: cs-framework-override/config/framework.config.php:1295
+#: cs-framework-override/config/framework.config.php:1348
+#: cs-framework-override/config/framework.config.php:1374
+#: cs-framework-override/config/metabox.config.php:730
+#: cs-framework-override/config/metabox.config.php:2124
+#: cs-framework-override/config/metabox.config.php:2258
+#: cs-framework-override/config/metabox.config.php:2518
+msgid "Sidebar position"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1080
+#: cs-framework-override/config/framework.config.php:1136
+#: cs-framework-override/config/framework.config.php:1190
+#: cs-framework-override/config/framework.config.php:1243
+#: cs-framework-override/config/framework.config.php:1296
+#: cs-framework-override/config/framework.config.php:1349
+#: cs-framework-override/config/framework.config.php:1375
+#: cs-framework-override/config/metabox.config.php:731
+#: cs-framework-override/config/metabox.config.php:2125
+#: cs-framework-override/config/metabox.config.php:2259
+#: cs-framework-override/config/metabox.config.php:2519
+msgid "Please select sidebar layout"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1096
+#: cs-framework-override/config/framework.config.php:1149
+#: cs-framework-override/config/framework.config.php:1202
+#: cs-framework-override/config/framework.config.php:1255
+#: cs-framework-override/config/framework.config.php:1308
+#: cs-framework-override/config/metabox.config.php:748
+#: cs-framework-override/config/metabox.config.php:2276
+#: cs-framework-override/config/metabox.config.php:2537
+msgid "Sidebar width"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1097
+#: cs-framework-override/config/framework.config.php:1256
+#: cs-framework-override/config/framework.config.php:1309
+#: cs-framework-override/config/metabox.config.php:2277
+msgid "Select width of main sidebar"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1099
+#: cs-framework-override/config/framework.config.php:1152
+#: cs-framework-override/config/framework.config.php:1205
+#: cs-framework-override/config/framework.config.php:1258
+#: cs-framework-override/config/framework.config.php:1311
+#: cs-framework-override/config/metabox.config.php:752
+#: cs-framework-override/config/metabox.config.php:2280
+#: cs-framework-override/config/metabox.config.php:2541
+msgid "Small"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1100
+#: cs-framework-override/config/framework.config.php:1153
+#: cs-framework-override/config/framework.config.php:1206
+#: cs-framework-override/config/framework.config.php:1259
+#: cs-framework-override/config/framework.config.php:1312
+#: cs-framework-override/config/metabox.config.php:753
+#: cs-framework-override/config/metabox.config.php:2281
+#: cs-framework-override/config/metabox.config.php:2542
+msgid "Normal"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1101
+#: cs-framework-override/config/framework.config.php:1154
+#: cs-framework-override/config/framework.config.php:1207
+#: cs-framework-override/config/framework.config.php:1260
+#: cs-framework-override/config/framework.config.php:1313
+#: cs-framework-override/config/metabox.config.php:754
+#: cs-framework-override/config/metabox.config.php:2282
+#: cs-framework-override/config/metabox.config.php:2543
+msgid "Large"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1102
+#: cs-framework-override/config/framework.config.php:1155
+#: cs-framework-override/config/framework.config.php:1208
+#: cs-framework-override/config/framework.config.php:1261
+#: cs-framework-override/config/framework.config.php:1314
+#: cs-framework-override/config/metabox.config.php:755
+#: cs-framework-override/config/metabox.config.php:2283
+#: cs-framework-override/config/metabox.config.php:2544
+msgid "Extra large"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1110
+#: cs-framework-override/config/framework.config.php:1163
+#: cs-framework-override/config/framework.config.php:1216
+#: cs-framework-override/config/framework.config.php:1269
+#: cs-framework-override/config/framework.config.php:1322
+#: cs-framework-override/config/metabox.config.php:763
+#: cs-framework-override/config/metabox.config.php:2291
+#: cs-framework-override/config/metabox.config.php:2556
+msgid "Sidebar style"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1111
+#: cs-framework-override/config/framework.config.php:1164
+#: cs-framework-override/config/framework.config.php:1217
+#: cs-framework-override/config/framework.config.php:1270
+#: cs-framework-override/config/framework.config.php:1323
+#: cs-framework-override/config/metabox.config.php:764
+#: cs-framework-override/config/metabox.config.php:2292
+#: cs-framework-override/config/metabox.config.php:2557
+msgid "Select style of main sidebar"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1123
+#: cs-framework-override/config/framework.config.php:1129
+#: cs-framework-override/config/metabox.config.php:724
+msgid "Page layout"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1150
+#: cs-framework-override/config/framework.config.php:1203
+#: cs-framework-override/config/metabox.config.php:749
+#: cs-framework-override/config/metabox.config.php:2538
+msgid "Set width of sidebar on single post"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1177
+#: cs-framework-override/config/framework.config.php:1183
+msgid "Portfolio layout"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1230
+#: cs-framework-override/config/framework.config.php:1236
+msgid "Search page layout"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1283
+#: cs-framework-override/config/framework.config.php:1289
+msgid "Archive layout"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1336
+#: cs-framework-override/config/framework.config.php:1342
+msgid "Woocommerce shop layout"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1362
+#: cs-framework-override/config/metabox.config.php:2091
+msgid "Enable shop full width"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1368
+msgid "Single product layout"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1393
+msgid "Woocommerce options"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1400
+#: cs-framework-override/config/metabox.config.php:2063
+msgid "Title for shop page"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1405
+#: cs-framework-override/config/metabox.config.php:2068
+msgid "Description for shop page"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1410
+#: cs-framework-override/config/metabox.config.php:2073
+msgid "Number of products on page"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1416
+#: cs-framework-override/config/metabox.config.php:2102
+msgid "Shortcode before footer"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1435
+#: cs-framework-override/config/metabox.config.php:2009
+msgid "404 page options"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1442
+#: cs-framework-override/config/metabox.config.php:2019
+msgid "Page style"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1444
+#: cs-framework-override/config/metabox.config.php:51
+#: cs-framework-override/config/metabox.config.php:71
+#: cs-framework-override/config/metabox.config.php:98
+#: cs-framework-override/config/metabox.config.php:130
+#: cs-framework-override/config/metabox.config.php:141
+#: cs-framework-override/config/metabox.config.php:154
+#: cs-framework-override/config/metabox.config.php:223
+#: cs-framework-override/config/metabox.config.php:238
+#: cs-framework-override/config/metabox.config.php:254
+#: cs-framework-override/config/metabox.config.php:268
+#: cs-framework-override/config/metabox.config.php:284
+#: cs-framework-override/config/metabox.config.php:300
+#: cs-framework-override/config/metabox.config.php:315
+#: cs-framework-override/config/metabox.config.php:346
+#: cs-framework-override/config/metabox.config.php:359
+#: cs-framework-override/config/metabox.config.php:372
+#: cs-framework-override/config/metabox.config.php:386
+#: cs-framework-override/config/metabox.config.php:411
+#: cs-framework-override/config/metabox.config.php:430
+#: cs-framework-override/config/metabox.config.php:449
+#: cs-framework-override/config/metabox.config.php:461
+#: cs-framework-override/config/metabox.config.php:479
+#: cs-framework-override/config/metabox.config.php:497
+#: cs-framework-override/config/metabox.config.php:599
+#: cs-framework-override/config/metabox.config.php:610
+#: cs-framework-override/config/metabox.config.php:672
+#: cs-framework-override/config/metabox.config.php:708
+#: cs-framework-override/config/metabox.config.php:751
+#: cs-framework-override/config/metabox.config.php:766
+#: cs-framework-override/config/metabox.config.php:914
+#: cs-framework-override/config/metabox.config.php:929
+#: cs-framework-override/config/metabox.config.php:941
+#: cs-framework-override/config/metabox.config.php:953
+#: cs-framework-override/config/metabox.config.php:975
+#: cs-framework-override/config/metabox.config.php:1019
+#: cs-framework-override/config/metabox.config.php:1055
+#: cs-framework-override/config/metabox.config.php:1066
+#: cs-framework-override/config/metabox.config.php:1106
+#: cs-framework-override/config/metabox.config.php:1126
+#: cs-framework-override/config/metabox.config.php:1169
+#: cs-framework-override/config/metabox.config.php:1210
+#: cs-framework-override/config/metabox.config.php:1222
+#: cs-framework-override/config/metabox.config.php:1233
+#: cs-framework-override/config/metabox.config.php:1244
+#: cs-framework-override/config/metabox.config.php:1304
+#: cs-framework-override/config/metabox.config.php:1385
+#: cs-framework-override/config/metabox.config.php:1428
+#: cs-framework-override/config/metabox.config.php:1469
+#: cs-framework-override/config/metabox.config.php:1488
+#: cs-framework-override/config/metabox.config.php:1499
+#: cs-framework-override/config/metabox.config.php:1561
+#: cs-framework-override/config/metabox.config.php:1597
+#: cs-framework-override/config/metabox.config.php:1667
+#: cs-framework-override/config/metabox.config.php:1677
+#: cs-framework-override/config/metabox.config.php:1728
+#: cs-framework-override/config/metabox.config.php:1743
+#: cs-framework-override/config/metabox.config.php:1759
+#: cs-framework-override/config/metabox.config.php:1773
+#: cs-framework-override/config/metabox.config.php:1789
+#: cs-framework-override/config/metabox.config.php:1805
+#: cs-framework-override/config/metabox.config.php:1820
+#: cs-framework-override/config/metabox.config.php:1851
+#: cs-framework-override/config/metabox.config.php:1863
+#: cs-framework-override/config/metabox.config.php:1884
+#: cs-framework-override/config/metabox.config.php:1895
+#: cs-framework-override/config/metabox.config.php:1957
+#: cs-framework-override/config/metabox.config.php:1993
+#: cs-framework-override/config/metabox.config.php:2022
+#: cs-framework-override/config/metabox.config.php:2080
+#: cs-framework-override/config/metabox.config.php:2093
+#: cs-framework-override/config/metabox.config.php:2279
+#: cs-framework-override/config/metabox.config.php:2294
+#: cs-framework-override/config/metabox.config.php:2413
+#: cs-framework-override/config/metabox.config.php:2540
+#: cs-framework-override/config/metabox.config.php:2559
+#: cs-framework-override/config/metabox.config.php:2718
+#: cs-framework-override/config/metabox.config.php:2729
+#: cs-framework-override/config/metabox.config.php:2745
+#: cs-framework-override/fields/typography/typography.php:78
+#: library/inc/menu/mega_menu.php:72
+msgid "Default"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1452
+msgid "Parallax background"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1458
+#: cs-framework-override/config/metabox.config.php:2030
+msgid "Page title"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1465
+#: cs-framework-override/config/metabox.config.php:2035
+msgid "Page description"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1471
+#: cs-framework-override/config/metabox.config.php:591
+#: cs-framework-override/config/metabox.config.php:1480
+#: cs-framework-override/config/metabox.config.php:1876
+msgid "Footer options"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1476
+msgid "Footer content "
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1481
+#: cs-framework-override/config/metabox.config.php:596
+#: cs-framework-override/config/metabox.config.php:1485
+#: cs-framework-override/config/metabox.config.php:1881
+msgid "Footer color scheme"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1484
+#: cs-framework-override/config/metabox.config.php:600
+#: cs-framework-override/config/metabox.config.php:1489
+#: cs-framework-override/config/metabox.config.php:1885
+msgid "Dark footer"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1485
+#: cs-framework-override/config/metabox.config.php:601
+#: cs-framework-override/config/metabox.config.php:1490
+#: cs-framework-override/config/metabox.config.php:1886
+msgid "Light footer"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1486
+#: cs-framework-override/config/metabox.config.php:602
+#: cs-framework-override/config/metabox.config.php:1491
+#: cs-framework-override/config/metabox.config.php:1887
+msgid "Colored footer"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1493
+#: cs-framework-override/config/metabox.config.php:614
+#: cs-framework-override/config/metabox.config.php:1503
+#: cs-framework-override/config/metabox.config.php:1899
+msgid "Enable footer content section"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1499
+#: cs-framework-override/config/metabox.config.php:620
+#: cs-framework-override/config/metabox.config.php:1509
+#: cs-framework-override/config/metabox.config.php:1905
+msgid "Footer top panel style"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1518
+#: cs-framework-override/config/metabox.config.php:640
+#: cs-framework-override/config/metabox.config.php:1529
+#: cs-framework-override/config/metabox.config.php:1925
+msgid "Footer logotype pictogram"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1524
+#: cs-framework-override/config/metabox.config.php:646
+#: cs-framework-override/config/metabox.config.php:1535
+#: cs-framework-override/config/metabox.config.php:1931
+msgid "Retina Ready Footer logotype pictogram"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1532
+#: cs-framework-override/config/metabox.config.php:661
+#: cs-framework-override/config/metabox.config.php:1550
+#: cs-framework-override/config/metabox.config.php:1946
+msgid "Footer text"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1538
+#: cs-framework-override/config/metabox.config.php:676
+#: cs-framework-override/config/metabox.config.php:1565
+#: cs-framework-override/config/metabox.config.php:1961
+msgid "Hide separator after footer text"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1544
+#: cs-framework-override/config/metabox.config.php:683
+#: cs-framework-override/config/metabox.config.php:1572
+#: cs-framework-override/config/metabox.config.php:1968
+msgid "Footer sidebars layout"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1561
+#: cs-framework-override/config/metabox.config.php:705
+#: cs-framework-override/config/metabox.config.php:1594
+#: cs-framework-override/config/metabox.config.php:1990
+msgid "Panel align"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1575
+msgid "Footer copyright panel"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1581
+msgid "Enable footer copyright section"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1588
+msgid "Copyright text"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1593
+msgid "Enable social links"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1598
+msgid "Social link style"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1616
+msgid "Typography"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1621
+#: cs-framework-override/config/metabox.config.php:2145
+msgid "Typography options"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1627
+#: cs-framework-override/config/framework.config.php:1636
+#: cs-framework-override/config/framework.config.php:1645
+#: cs-framework-override/config/framework.config.php:1654
+#: cs-framework-override/config/framework.config.php:1663
+#: cs-framework-override/config/framework.config.php:1672
+#: cs-framework-override/config/framework.config.php:1681
+#: cs-framework-override/config/metabox.config.php:2156
+#: cs-framework-override/config/metabox.config.php:2165
+#: cs-framework-override/config/metabox.config.php:2174
+#: cs-framework-override/config/metabox.config.php:2183
+#: cs-framework-override/config/metabox.config.php:2192
+#: cs-framework-override/config/metabox.config.php:2201
+#: cs-framework-override/config/metabox.config.php:2210
+msgid " Typography"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1694
+msgid "Advanced options"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1700
+msgid "Twitter API keys"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1705
+msgid "Consumer key"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1711
+msgid "Consumer Secret"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1717
+msgid "Access Token"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1723
+msgid "Access Token Secret"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1728
+msgid "Custom JS Code"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1735
+msgid "JS code field"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1736
+msgid "without &lt; script &gt; tags"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1753
+msgid "Custom CSS Code"
+msgstr ""
+
+#: cs-framework-override/config/framework.config.php:1760
+msgid "CSS code field"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:63
+msgid "Color scheme"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:99
+#: cs-framework-override/config/metabox.config.php:131
+#: cs-framework-override/config/metabox.config.php:155
+#: cs-framework-override/config/metabox.config.php:611
+#: cs-framework-override/config/metabox.config.php:954
+#: cs-framework-override/config/metabox.config.php:1020
+#: cs-framework-override/config/metabox.config.php:1107
+#: cs-framework-override/config/metabox.config.php:1170
+#: cs-framework-override/config/metabox.config.php:1234
+#: cs-framework-override/config/metabox.config.php:1429
+#: cs-framework-override/config/metabox.config.php:1500
+#: cs-framework-override/config/metabox.config.php:1896
+#: cs-framework-override/config/metabox.config.php:2094
+#: cs-framework-override/config/metabox.config.php:2719
+#: cs-framework-override/config/metabox.config.php:2730
+msgid "Enable"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:100
+#: cs-framework-override/config/metabox.config.php:132
+#: cs-framework-override/config/metabox.config.php:156
+#: cs-framework-override/config/metabox.config.php:612
+#: cs-framework-override/config/metabox.config.php:955
+#: cs-framework-override/config/metabox.config.php:1021
+#: cs-framework-override/config/metabox.config.php:1108
+#: cs-framework-override/config/metabox.config.php:1171
+#: cs-framework-override/config/metabox.config.php:1235
+#: cs-framework-override/config/metabox.config.php:1430
+#: cs-framework-override/config/metabox.config.php:1501
+#: cs-framework-override/config/metabox.config.php:1897
+#: cs-framework-override/config/metabox.config.php:2095
+#: cs-framework-override/config/metabox.config.php:2720
+#: cs-framework-override/config/metabox.config.php:2731
+msgid "Disable"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:285
+#: cs-framework-override/config/metabox.config.php:301
+#: cs-framework-override/config/metabox.config.php:316
+#: cs-framework-override/config/metabox.config.php:1223
+#: cs-framework-override/config/metabox.config.php:1470
+#: cs-framework-override/config/metabox.config.php:1790
+#: cs-framework-override/config/metabox.config.php:1806
+#: cs-framework-override/config/metabox.config.php:1821
+msgid "On"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:286
+#: cs-framework-override/config/metabox.config.php:302
+#: cs-framework-override/config/metabox.config.php:317
+#: cs-framework-override/config/metabox.config.php:1224
+#: cs-framework-override/config/metabox.config.php:1471
+#: cs-framework-override/config/metabox.config.php:1791
+#: cs-framework-override/config/metabox.config.php:1807
+#: cs-framework-override/config/metabox.config.php:1822
+msgid "Off"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:326
+#: cs-framework-override/config/metabox.config.php:1831
+msgid "Hide logo on page"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:347
+#: cs-framework-override/config/metabox.config.php:360
+#: cs-framework-override/config/metabox.config.php:374
+#: cs-framework-override/config/metabox.config.php:412
+#: cs-framework-override/config/metabox.config.php:451
+#: cs-framework-override/config/metabox.config.php:673
+#: cs-framework-override/config/metabox.config.php:1212
+#: cs-framework-override/config/metabox.config.php:1246
+#: cs-framework-override/config/metabox.config.php:1305
+#: cs-framework-override/config/metabox.config.php:1562
+#: cs-framework-override/config/metabox.config.php:1852
+#: cs-framework-override/config/metabox.config.php:1864
+#: cs-framework-override/config/metabox.config.php:1958
+msgid "Hide"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:348
+#: cs-framework-override/config/metabox.config.php:361
+#: cs-framework-override/config/metabox.config.php:373
+#: cs-framework-override/config/metabox.config.php:413
+#: cs-framework-override/config/metabox.config.php:450
+#: cs-framework-override/config/metabox.config.php:674
+#: cs-framework-override/config/metabox.config.php:1211
+#: cs-framework-override/config/metabox.config.php:1245
+#: cs-framework-override/config/metabox.config.php:1306
+#: cs-framework-override/config/metabox.config.php:1563
+#: cs-framework-override/config/metabox.config.php:1853
+#: cs-framework-override/config/metabox.config.php:1865
+#: cs-framework-override/config/metabox.config.php:1959
+msgid "Show"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:396
+#: cs-framework-override/config/metabox.config.php:1291
+msgid "Replace logo with text"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:454
+msgid "Show stunning_header"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:653
+#: cs-framework-override/config/metabox.config.php:1542
+#: cs-framework-override/config/metabox.config.php:1938
+msgid "Hide footer text"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:776
+#: cs-framework-override/config/metabox.config.php:2573
+msgid "Disable page top padding"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:782
+msgid "Disable page bottom padding"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:794
+#: cs-framework-override/config/metabox.config.php:806
+msgid "Before content shortcode"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:811
+msgid "Before content shortcode section background"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:816
+msgid "Before content shortcode padding top"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:842
+msgid "Before content shortcode padding bottom"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:871
+#: cs-framework-override/config/metabox.config.php:2454
+msgid "Page options"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:883
+msgid "News page options"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:963
+msgid "Number of posts to display"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:1039
+#: cs-framework-override/config/metabox.config.php:1266
+msgid "Portfolio page options"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:1084
+#: cs-framework-override/config/metabox.config.php:1355
+msgid "Custom categories to display"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:1091
+#: cs-framework-override/config/metabox.config.php:1362
+msgid "Category"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:1099
+#: cs-framework-override/config/metabox.config.php:1370
+msgid "Exclude categories"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:1117
+#: cs-framework-override/config/metabox.config.php:1376
+msgid "Styling options"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:1613
+msgid "Maintenance page options"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:1624
+msgid "Show maintenance header"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:1629
+msgid "Show maintenance progress bar"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:1634
+msgid "Progress bar title"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:1640
+msgid "Progress bar value"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:1651
+msgid "One page template options"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:1659
+msgid "Page options options"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:1668
+msgid "Vertical"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:1674
+msgid "Scroll style"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:1678
+msgid "Fixed sections background"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:1685
+msgid "Enable scroll to next button"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:1690
+msgid "Scroll button color"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2052
+msgid "Products page options"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2113
+msgid "Layout"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2233
+msgid "Single post settings"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2251
+msgid "Post layout"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2308
+#: cs-framework-override/config/metabox.config.php:2354
+#: cs-framework-override/config/metabox.config.php:2389
+msgid "Post featured media"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2321
+msgid "Set link for post featured embed video"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2333
+msgid "Set link for post featured mp4 video"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2345
+msgid "Set link for post featured webm video"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2367
+msgid "Set link for post featured embed audio"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2379
+msgid "Set link for post featured self hosted audio"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2401
+msgid "Set for post featured gallery"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2414
+#: cs-framework-override/config/metabox.config.php:2616
+msgid "Gallery"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2427
+msgid "Page settings"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2439
+msgid "Custom menu"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2462
+msgid "Portfolio masonry"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2472
+msgid "Item thumbnail size on masonry layout"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2487
+msgid "Portfolio content"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2497
+msgid "Item layout options"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2579
+msgid "Item media options"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2584
+msgid "Select portfolio media format"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2600
+msgid "Will be displayed Featured Image"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2607
+msgid "Images for gallery"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2614
+msgid "Gallery style"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2626
+msgid "Embed Video"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2632
+msgid "MP4 Video"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2635
+#: cs-framework-override/config/metabox.config.php:2647
+#: cs-framework-override/config/metabox.config.php:2665
+msgid "Add"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2636
+#: cs-framework-override/config/metabox.config.php:2648
+#: cs-framework-override/config/metabox.config.php:2666
+msgid "Select"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2637
+#: cs-framework-override/config/metabox.config.php:2649
+#: cs-framework-override/config/metabox.config.php:2667
+msgid "Use this file"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2644
+msgid "WebM Video"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2656
+msgid "Embed Audio"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2662
+msgid "Audio file"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2676
+msgid "Item additional info"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2681
+msgid "Description title"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2687
+msgid "Portfolio description"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2692
+msgid "Addition info title"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2697
+msgid "Addition info"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2699
+msgid "Add New Field"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2704
+msgid "Title"
+msgstr ""
+
+#: cs-framework-override/config/metabox.config.php:2709
+#: library/inc/menu/edit_mega_menu_walker.php:247 woocommerce/cart/cart.php:38
+#: woocommerce/wishlist-view.php:80
+msgid "Description"
+msgstr ""
+
+#: cs-framework-override/fields/typography/typography.php:80
+#: library/codestar/fields/typography/typography.php:73
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: cs-framework-override/fields/typography/typography.php:86
+#: library/codestar/fields/typography/typography.php:79
+msgid "Google Fonts"
+msgstr ""
+
+#: cs-framework-override/fields/typography/typography.php:127
+#: library/codestar/fields/typography/typography.php:107
+#: library/codestar/functions/actions.php:32
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: fragments/header.php:317 fragments/one-page-header.php:241
+msgid "Start typing & press "
+msgstr ""
+
+#: fragments/header.php:317 fragments/one-page-header.php:241
+msgid "Enter"
+msgstr ""
+
+#: fragments/stunning-header.php:110 fragments/stunning-header.php:221
+#: library/inc/functions/breadcrumbs.php:189
+msgid "Home"
+msgstr ""
+
+#: fragments/stunning-header.php:219 library/inc/extensions/sidebars.php:50
+#: library/inc/extensions/sidebars.php:63
+msgid "Shop"
+msgstr ""
+
+#: library/codestar/classes/framework.class.php:176
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: library/codestar/classes/framework.class.php:181
+msgid "Default options restored."
+msgstr ""
+
+#: library/codestar/classes/framework.class.php:200
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: library/codestar/classes/framework.class.php:328
+msgid "Settings saved."
+msgstr ""
+
+#: library/codestar/classes/framework.class.php:329
+#: woocommerce/wishlist-view.php:37
+msgid "Save"
+msgstr ""
+
+#: library/codestar/classes/framework.class.php:329
+msgid "Saving..."
+msgstr ""
+
+#: library/codestar/classes/framework.class.php:330
+msgid "Restore"
+msgstr ""
+
+#: library/codestar/classes/framework.class.php:332
+msgid "show all options"
+msgstr ""
+
+#: library/codestar/classes/options.class.php:120
+#, php-format
+msgid "You are editing language: ( <strong>%s</strong> )"
+msgstr ""
+
+#: library/codestar/classes/options.class.php:167
+msgid "CONFIG"
+msgstr ""
+
+#: library/codestar/classes/options.class.php:173
+msgid "USAGE"
+msgstr ""
+
+#: library/codestar/classes/options.class.php:179
+msgid "VALUE"
+msgstr ""
+
+#: library/codestar/classes/shortcode.class.php:97
+#: library/codestar/classes/shortcode.class.php:106
+#: library/codestar/fields/textarea/textarea.php:27
+msgid "Add Shortcode"
+msgstr ""
+
+#: library/codestar/classes/shortcode.class.php:108
+msgid "Select a shortcode"
+msgstr ""
+
+#: library/codestar/classes/shortcode.class.php:124
+msgid "Insert Shortcode"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:31
+#: library/codestar/fields/background/background.php:32
+#: library/codestar/fields/upload/upload.php:23
+#: library/codestar/fields/upload/upload.php:24
+msgid "Upload"
+msgstr ""
+
+#: library/codestar/fields/background/background.php:33
+#: library/codestar/fields/upload/upload.php:25
+msgid "Use Image"
+msgstr ""
+
+#: library/codestar/fields/backup/backup.php:21
+msgid "Import a Backup"
+msgstr ""
+
+#: library/codestar/fields/backup/backup.php:22
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: library/codestar/fields/backup/backup.php:27
+msgid "Export and Download Backup"
+msgstr ""
+
+#: library/codestar/fields/backup/backup.php:28
+msgid "or"
+msgstr ""
+
+#: library/codestar/fields/backup/backup.php:29
+msgid "!!! Reset All Options !!!"
+msgstr ""
+
+#: library/codestar/fields/backup/backup.php:30
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: library/codestar/fields/gallery/gallery.php:21
+msgid "Add Gallery"
+msgstr ""
+
+#: library/codestar/fields/gallery/gallery.php:22
+msgid "Edit Gallery"
+msgstr ""
+
+#: library/codestar/fields/gallery/gallery.php:23
+#: woocommerce/single-product/add-to-cart/variable.php:42
+msgid "Clear"
+msgstr ""
+
+#: library/codestar/fields/group/group.php:21
+msgid "Adding"
+msgstr ""
+
+#: library/codestar/fields/group/group.php:43
+#: library/codestar/fields/group/group.php:75
+#: library/inc/menu/edit_mega_menu_walker.php:280
+#: woocommerce/wishlist-view.php:221
+msgid "Remove"
+msgstr ""
+
+#: library/codestar/fields/icon/icon.php:25
+#: library/codestar/functions/actions.php:58
+msgid "Add Icon"
+msgstr ""
+
+#: library/codestar/fields/icon/icon.php:26
+msgid "Remove Icon"
+msgstr ""
+
+#: library/codestar/fields/image/image.php:22
+msgid "Add Image"
+msgstr ""
+
+#: library/codestar/fields/sorter/sorter.php:24
+msgid "Enabled Modules"
+msgstr ""
+
+#: library/codestar/fields/sorter/sorter.php:25
+msgid "Disabled Modules"
+msgstr ""
+
+#: library/codestar/fields/switcher/switcher.php:20
+msgid "on"
+msgstr ""
+
+#: library/codestar/fields/switcher/switcher.php:20
+msgid "off"
+msgstr ""
+
+#: library/codestar/functions/actions.php:59
+msgid "Search a Icon..."
+msgstr ""
+
+#: library/codestar/functions/actions.php:60
+msgid "Loading..."
+msgstr ""
+
+#: library/codestar/functions/helpers.php:48
+msgid "This field class is not available!"
+msgstr ""
+
+#: library/codestar/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: library/codestar/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: library/codestar/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: library/inc/extensions/comments.php:24
+msgid "Pingback:"
+msgstr ""
+
+#: library/inc/extensions/comments.php:24
+#: library/inc/functions/breadcrumbs.php:1154
+#: library/inc/functions/breadcrumbs.php:1186
+#: library/inc/functions/breadcrumbs.php:1202
+#: library/inc/functions/breadcrumbs.php:1232
+msgid "Edit"
+msgstr ""
+
+#: library/inc/extensions/comments.php:41
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: library/inc/extensions/comments.php:85
+msgid "Reply"
+msgstr ""
+
+#: library/inc/extensions/sidebars.php:24
+#: library/inc/extensions/sidebars.php:37
+#: library/inc/extensions/sidebars.php:50
+#: library/inc/extensions/sidebars.php:63
+msgid "Sidebar"
+msgstr ""
+
+#: library/inc/extensions/sidebars.php:26
+#: library/inc/extensions/sidebars.php:39
+msgid "Sidebar for layouts"
+msgstr ""
+
+#: library/inc/extensions/sidebars.php:52
+#: library/inc/extensions/sidebars.php:65
+msgid "Sidebar for shop layouts"
+msgstr ""
+
+#: library/inc/extensions/sidebars.php:79
+#: library/inc/extensions/sidebars.php:89
+#: library/inc/extensions/sidebars.php:99
+#: library/inc/extensions/sidebars.php:109
+msgid "Footer widget area"
+msgstr ""
+
+#: library/inc/extensions/sidebars.php:137
+msgid "Invalid sidebar ID"
+msgstr ""
+
+#: library/inc/functions/breadcrumbs.php:188
+msgid "You are here:"
+msgstr ""
+
+#: library/inc/functions/breadcrumbs.php:190
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: library/inc/functions/breadcrumbs.php:191
+msgid "404 Not Found"
+msgstr ""
+
+#: library/inc/functions/breadcrumbs.php:192
+#, php-format
+msgid "Page %d"
+msgstr ""
+
+#: library/inc/functions/breadcrumbs.php:193
+msgid "Archives"
+msgstr ""
+
+#: library/inc/functions/breadcrumbs.php:194
+msgid "g:i a"
+msgstr ""
+
+#: library/inc/functions/breadcrumbs.php:195
+#, php-format
+msgid "Minute %d"
+msgstr ""
+
+#: library/inc/functions/breadcrumbs.php:196
+msgid "g a"
+msgstr ""
+
+#: library/inc/functions/breadcrumbs.php:197
+msgid "d"
+msgstr ""
+
+#: library/inc/functions/breadcrumbs.php:198
+#, php-format
+msgid "Week %d"
+msgstr ""
+
+#: library/inc/functions/breadcrumbs.php:199
+msgid "F"
+msgstr ""
+
+#: library/inc/functions/breadcrumbs.php:200
+#: library/inc/functions/breadcrumbs.php:1064
+msgid "Y"
+msgstr ""
+
+#: library/inc/functions/breadcrumbs.php:1067
+msgid "F Y"
+msgstr ""
+
+#: library/inc/functions/breadcrumbs.php:1070
+msgid "F j, Y"
+msgstr ""
+
+#: library/inc/functions/breadcrumbs.php:1180
+msgid "Split"
+msgstr ""
+
+#: library/inc/functions/breadcrumbs.php:1183
+msgid "Merge"
+msgstr ""
+
+#: library/inc/functions/page-links.php:94
+#: library/inc/functions/page-links.php:106
+#: library/inc/functions/page-links.php:132
+#: library/inc/functions/page-links.php:142 loops/loop-newspage.php:79
+#: loops/loop.php:32
+msgid "Next"
+msgstr ""
+
+#: library/inc/functions/page-links.php:95
+#: library/inc/functions/page-links.php:100
+#: library/inc/functions/page-links.php:133 loops/loop-newspage.php:80
+#: loops/loop.php:33
+msgid "Previous"
+msgstr ""
+
+#: library/inc/functions/page-links.php:119
+#: library/inc/functions/page-links.php:129
+msgid "Newer"
+msgstr ""
+
+#: library/inc/functions/page-links.php:120
+msgid "Older"
+msgstr ""
+
+#: library/inc/functions/page-links.php:124
+msgid " Older"
+msgstr ""
+
+#: library/inc/functions/page-links.php:137
+msgid "Previous "
+msgstr ""
+
+#: library/inc/functions/page-links.php:162
+msgid "The End"
+msgstr ""
+
+#: library/inc/functions/page-links.php:166
+msgid "Load more"
+msgstr ""
+
+#: library/inc/functions/portfolio-hovers.php:54
+#: library/inc/functions/portfolio-hovers.php:66
+#: library/inc/functions/portfolio-hovers.php:80
+#: library/inc/functions/portfolio-hovers.php:93
+#: library/inc/functions/portfolio-hovers.php:107
+#: library/inc/functions/portfolio-hovers.php:120
+#: library/inc/functions/portfolio-hovers.php:133
+#: library/inc/functions/portfolio-hovers.php:159
+#: post-formats/format-portfolio.php:100
+msgid "More details"
+msgstr ""
+
+#: library/inc/functions/portfolio-hovers.php:67
+#: library/inc/functions/portfolio-hovers.php:81
+#: library/inc/functions/portfolio-hovers.php:94
+#: library/inc/functions/portfolio-hovers.php:108
+#: library/inc/functions/portfolio-hovers.php:121
+#: library/inc/functions/portfolio-hovers.php:134
+#: library/inc/functions/portfolio-hovers.php:160
+msgid "View Larger"
+msgstr ""
+
+#: library/inc/functions/post-functions.php:255
+msgid "Post by: "
+msgstr ""
+
+#: library/inc/functions/post-functions.php:267
+msgid "in"
+msgstr ""
+
+#: library/inc/functions/post-functions.php:385
+msgid "Tags:"
+msgstr ""
+
+#: library/inc/functions/taxonomy-subnav.php:12
+msgid "All"
+msgstr ""
+
+#: library/inc/functions/taxonomy-subnav.php:38
+#: library/inc/functions/taxonomy-subnav.php:43
+msgid "Show All"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: library/inc/menu/edit_mega_menu_walker.php:88
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: library/inc/menu/edit_mega_menu_walker.php:92
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: library/inc/menu/edit_mega_menu_walker.php:106
+msgid "sub item"
+msgstr ""
+
+#: library/inc/menu/edit_mega_menu_walker.php:121
+msgid "Move up"
+msgstr ""
+
+#: library/inc/menu/edit_mega_menu_walker.php:134
+msgid "Move down"
+msgstr ""
+
+#: library/inc/menu/edit_mega_menu_walker.php:136
+#: library/inc/menu/edit_mega_menu_walker.php:138
+msgid "Edit Menu Item"
+msgstr ""
+
+#: library/inc/menu/edit_mega_menu_walker.php:147
+msgid "URL"
+msgstr ""
+
+#: library/inc/menu/edit_mega_menu_walker.php:154
+msgid "Navigation Label"
+msgstr ""
+
+#: library/inc/menu/edit_mega_menu_walker.php:161
+msgid "Title Attribute"
+msgstr ""
+
+#: library/inc/menu/edit_mega_menu_walker.php:169
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: library/inc/menu/edit_mega_menu_walker.php:175
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: library/inc/menu/edit_mega_menu_walker.php:182
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: library/inc/menu/edit_mega_menu_walker.php:209
+msgid "Add icon"
+msgstr ""
+
+#: library/inc/menu/edit_mega_menu_walker.php:210
+msgid "Remove icon"
+msgstr ""
+
+#: library/inc/menu/edit_mega_menu_walker.php:215
+msgid "Add image"
+msgstr ""
+
+#: library/inc/menu/edit_mega_menu_walker.php:216
+msgid "Remove image"
+msgstr ""
+
+#: library/inc/menu/edit_mega_menu_walker.php:249
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: library/inc/menu/edit_mega_menu_walker.php:255
+#: woocommerce/wishlist-view.php:191
+msgid "Move"
+msgstr ""
+
+#: library/inc/menu/edit_mega_menu_walker.php:256
+msgid "Up one"
+msgstr ""
+
+#: library/inc/menu/edit_mega_menu_walker.php:257
+msgid "Down one"
+msgstr ""
+
+#: library/inc/menu/edit_mega_menu_walker.php:260
+msgid "To the top"
+msgstr ""
+
+#: library/inc/menu/edit_mega_menu_walker.php:267
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: library/inc/menu/edit_mega_menu_walker.php:285
+#: woocommerce/wishlist-view.php:41
+msgid "Cancel"
+msgstr ""
+
+#: library/inc/menu/mega_menu.php:38 library/inc/menu/mega_menu.php:86
+#: library/inc/menu/mega_menu.php:93
+msgid "No"
+msgstr ""
+
+#: library/inc/menu/mega_menu.php:63
+msgid "Item label"
+msgstr ""
+
+#: library/inc/menu/mega_menu.php:69
+msgid "Label style"
+msgstr ""
+
+#: library/inc/menu/mega_menu.php:73
+msgid "Hot"
+msgstr ""
+
+#: library/inc/menu/mega_menu.php:74
+msgid "Popular"
+msgstr ""
+
+#: library/inc/menu/mega_menu.php:75
+msgid "Sale"
+msgstr ""
+
+#: library/inc/menu/mega_menu.php:76
+msgid "Info"
+msgstr ""
+
+#: library/inc/menu/mega_menu.php:84
+msgid "Make this item column title"
+msgstr ""
+
+#: library/inc/menu/mega_menu.php:86 library/inc/menu/mega_menu.php:93
+msgid "Yes"
+msgstr ""
+
+#: library/inc/menu/mega_menu.php:91
+msgid "Enable mega menu"
+msgstr ""
+
+#: library/inc/menu/mega_menu.php:99
+msgid "Columns"
+msgstr ""
+
+#: library/inc/menu/mega_menu.php:114
+msgid "Separate megemenu columns by"
+msgstr ""
+
+#: library/inc/menu/mega_menu.php:116
+msgid "Equally"
+msgstr ""
+
+#: library/inc/menu/mega_menu.php:116
+msgid "With menu titles"
+msgstr ""
+
+#: library/inc/menu/mega_menu.php:121
+msgid "Select image for background"
+msgstr ""
+
+#: library/inc/menu/menus.php:32
+msgid "Top menu"
+msgstr ""
+
+#: library/inc/menu/menus.php:36
+msgid "Main Menu"
+msgstr ""
+
+#: library/inc/menu/menus.php:40
+msgid "Footer Links"
+msgstr ""
+
+#: library/inc/menu/walkers.php:87
+#, php-format
+msgid ""
+"Please assign a menu to the primary menu location under %1$s or %2$s the "
+"design."
+msgstr ""
+
+#: library/inc/menu/walkers.php:88
+#, php-format
+msgid "<a href=\"%s\">Menus</a>"
+msgstr ""
+
+#: library/inc/menu/walkers.php:91
+#, php-format
+msgid "<a href=\"%s\">Customize</a>"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:333
+#: library/inc/plugins/tgm-config.php:69
+msgid "Install Required Plugins"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:334
+#: library/inc/plugins/tgm-config.php:70
+msgid "Install Plugins"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:335
+#: library/inc/plugins/tgm-config.php:71
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:336
+#: library/inc/plugins/tgm-config.php:72
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:338
+#: library/inc/plugins/tgm-config.php:73
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:343
+#: library/inc/plugins/tgm-config.php:74
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:353
+#: library/inc/plugins/tgm-config.php:79
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:368
+#: library/inc/plugins/tgm-config.php:76
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:373
+#: library/inc/plugins/tgm-config.php:77
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:383
+#: library/inc/plugins/tgm-config.php:81
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:397
+#: library/inc/plugins/tgm-config.php:83
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:399
+#: library/inc/plugins/class-tgm-plugin-activation.php:3029
+#: library/inc/plugins/tgm-config.php:84
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:400
+#: library/inc/plugins/class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:828
+#: library/inc/plugins/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:935
+#: library/inc/plugins/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:1116
+#: library/inc/plugins/class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:1881
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2235
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2280
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2491
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2495
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:3370
+#: library/inc/plugins/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:3370
+#: library/inc/plugins/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: library/inc/plugins/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/inc/plugins/tgm-config.php:75
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/plugins/tgm-config.php:78
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/plugins/tgm-config.php:80
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/plugins/tgm-config.php:82
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/plugins/tgm-config.php:85
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: library/inc/woocommerce/woo-shop-product.php:88
+msgid "Quick View"
+msgstr ""
+
+#: library/inc/woocommerce/woo-shop-product.php:149
+#: library/inc/woocommerce/woo-shop-product.php:150
+msgid "Shipping"
+msgstr ""
+
+#: library/inc/woocommerce/woo-shop-product.php:265
+#, php-format
+msgid "Showing %s items per page"
+msgstr ""
+
+#: library/inc/woocommerce/woo-shop-product.php:273
+msgid "Display "
+msgstr ""
+
+#: library/inc/woocommerce/woo-shop-product.php:273
+msgid " Products Per Page"
+msgstr ""
+
+#: library/inc/woocommerce/woo-single-product.php:90
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: library/inc/woocommerce/woo-single-product.php:98
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/inc/woocommerce/woo-single-product.php:137
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: loops/loop-newspage.php:88 loops/loop.php:43
+msgid "Start"
+msgstr ""
+
+#: loops/loop-newspage.php:115 loops/loop.php:70
+msgid "End"
+msgstr ""
+
+#: page-templates/maintenance-page.php:18
+msgid "Maintenance in progress"
+msgstr ""
+
+#: post-formats/format-blog.php:91
+msgid "read more"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search for pages..."
+msgstr ""
+
+#: sidebar-secondary.php:31 sidebar.php:31
+msgid "Add some widgets to this area!"
+msgstr ""
+
+#: woocommerce/archive-product.php:79 woocommerce/archive-product.php:109
+msgid "Sort by"
+msgstr ""
+
+#: woocommerce/archive-product.php:96 woocommerce/archive-product.php:126
+msgid "Products on page"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:30
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:37 woocommerce/wishlist-view.php:272
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:30 woocommerce/cart/cart-totals.php:35
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:36 woocommerce/checkout/review-order.php:58
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:58
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:79 woocommerce/cart/cart-totals.php:80
+#: woocommerce/cart/cart.php:41 woocommerce/cart/cart.php:129
+#: woocommerce/checkout/review-order.php:26
+#: woocommerce/checkout/review-order.php:105
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:83
+#: woocommerce/checkout/review-order.php:25 woocommerce/wishlist-view.php:76
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:39
+msgid "Unit Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:40 woocommerce/cart/cart.php:112
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:61
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:100
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:106 woocommerce/wishlist-view.php:86
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:152 woocommerce/checkout/form-coupon.php:37
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:153
+msgid "Apply"
+msgstr ""
+
+#: woocommerce/cart/cart.php:154
+msgid "Enter any valid coupon or promo code here to redeem your discount."
+msgstr ""
+
+#: woocommerce/cart/cart.php:164
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:30
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:38
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:55
+#: woocommerce/cart/shipping-calculator.php:61
+#: woocommerce/cart/shipping-calculator.php:73
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:62
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:90
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:95
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "Billing Details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:57
+#: woocommerce/checkout/form-shipping.php:78
+msgid "First Name"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:59
+#: woocommerce/checkout/form-shipping.php:80
+msgid "Last Name"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:61
+#: woocommerce/checkout/form-shipping.php:82
+msgid "Company Name"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:63
+#: woocommerce/checkout/form-shipping.php:84
+msgid "Address"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:65
+#: woocommerce/checkout/form-shipping.php:86
+msgid "Apartment, suite, unit etc."
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:67
+#: woocommerce/checkout/form-shipping.php:88
+msgid "Town / City"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:69
+#: woocommerce/checkout/form-shipping.php:90
+msgid "State / County"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:71
+#: woocommerce/checkout/form-shipping.php:92
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:73
+#: woocommerce/checkout/form-shipping.php:94
+#: woocommerce/single-product-reviews.php:74
+msgid "Email"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:75
+#: woocommerce/checkout/form-shipping.php:96
+msgid "Phone"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:115
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:126
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:31
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:66
+msgid "Your Order"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:74
+msgid "Payment Method"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:42
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:41
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:52
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing & Shipping "
+"section."
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:149
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:34
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:34
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:41
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:42
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:26
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/product-searchform.php:27
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:27
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:31
+#, php-format
+msgid "Review (%s)"
+msgid_plural "Reviews (%s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:33
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:55
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:67
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:67
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:106
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/simple.php:45
+#: woocommerce/single-product/add-to-cart/variation-add-to-cart-button.php:18
+msgid "Select quantity"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:31
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:38
+msgid "Select the"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:39
+#: woocommerce/single-product/product-image.php:43
+msgid "Shop product image!"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:57
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/related.php:51
+msgid "Related Products you may be interested!"
+msgstr ""
+
+#: woocommerce/single-product/review.php:38
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:39
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:46
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:55
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/sale-flash.php:27
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:130 woocommerce/wishlist-view.php:221
+msgid "Remove this product"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:162
+msgid "Free!"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:173
+#, php-format
+msgid "Added on : %s"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:203
+msgid "Shared"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:205
+msgid "Private"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:207
+msgid "Public"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:231
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:265
+msgid "Your Wishlist is currently empty."
+msgstr ""
+
+#: woocommerce/wishlist-view.php:289
+msgid "Ask for an estimate"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Polo"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://theme.crumina.net/polo/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Multipurpose creative theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Crumina"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://crumina.net/"
+msgstr ""
